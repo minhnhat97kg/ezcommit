@@ -34,5 +34,5 @@ Currently, `ezcommit` is under development. Once a stable version is released, i
 **(Example - Future Installation via Go):**
 
 ```bash
-go install [github.com/minhnhat97kg/ezcommit@latest](https://github.com/minhnhat97kg/ezcommit@latest)
+go install github.com/minhnhat97kg/ezcommit@latest
 ```
