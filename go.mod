@@ -1,4 +1,4 @@
-module ezcommit
+module github.com/minhnhat97kg/ezcommit
 
 go 1.24.1
 
