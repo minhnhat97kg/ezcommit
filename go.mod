@@ -1,4 +1,4 @@
-module better-commit
+module ezcommit
 
 go 1.24.1
 

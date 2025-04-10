@@ -61,6 +61,7 @@ func main() {
 		return
 	}
 
+	fmt.Println("💬 Generating commit message...")
 	options, err := agent.SendPrompt(*optionsNum, commitTypes[selectedCommitType.(int)], *lang, changes)
 	if err != nil {
 		fmt.Println("❌ Error sending prompt:", err)
